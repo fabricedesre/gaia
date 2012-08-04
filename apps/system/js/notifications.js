@@ -192,19 +192,28 @@ var NotificationScreen = {
 
     notificationNode.dataset.notificationID = detail.id;
 
+    var iconSrc = detail.appIcon || detail.icon;
+
     if (detail.icon) {
       var icon = document.createElement('img');
-      icon.src = detail.icon;
+      icon.src = iconSrc;
       notificationNode.appendChild(icon);
 
-      this.toasterIcon.src = detail.appIcon || detail.icon;
+      this.toasterIcon.src = iconSrc;
     }
 
+    var titleText = detail.appName || detail.title;
+
     var title = document.createElement('div');
-    title.textContent = detail.title;
+    title.textContent = titleText;
     notificationNode.appendChild(title);
 
-    this.toasterTitle.textContent = detail.appName || detail.title;
+    this.toasterTitle.textContent = titleText;
+
+    var messageText = detail.text;
+    if (detail.appName && detail.title) {
+      messageText = detail.title + ' - ' + detail.text;
+    }
 
     var message = document.createElement('div');
     message.classList.add('detail');
