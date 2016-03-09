@@ -347,7 +347,9 @@
   };
 
   SystemDialogManager.prototype._includeTrackingNotice = function() {
-    LazyLoader.load('/js/tracking_notice.js').then(()  => {
+    LazyLoader.load(
+      'chrome://gaia/content/system.gaiamobile.org/js/tracking_notice.js')
+    .then(()  => {
       this.trackingNotice = new TrackingNotice(SystemDialogManager);
     });
   };

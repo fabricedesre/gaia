@@ -2,14 +2,15 @@
 'use strict';
 
 (function(exports) {
+  const pfx = 'chrome://gaia/content/system.gaiamobile.org';
   const DEFAULT_RESOURCES = {
     poweron: {
-      video: '/resources/power/carrier_power_on.mp4',
-      image: '/resources/power/carrier_power_on.png'
+      video: pfx + '/resources/power/carrier_power_on.mp4',
+      image: pfx + '/resources/power/carrier_power_on.png'
     },
     poweroff: {
-      video: '/resources/power/carrier_power_off.mp4',
-      image: '/resources/power/carrier_power_off.png'
+      video: pfx + '/resources/power/carrier_power_off.mp4',
+      image: pfx + '/resources/power/carrier_power_off.png'
     }
   };
 

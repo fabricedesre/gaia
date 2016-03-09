@@ -1,0 +1,564 @@
+{
+  "layout": {
+    "af": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "am": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "ar": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "as": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "bg": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "bm": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "bn-BD": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "bn-IN": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "bs": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "ca": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "cs": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "cy": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "da": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "de": [
+      {
+        "layoutId": "de",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "dsb": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "ee": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "el": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "en-GB": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "en-US": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "eo": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "es": [
+      {
+        "layoutId": "es",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "et": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "eu": [
+      {
+        "layoutId": "es",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      },
+      {
+        "layoutId": "fr",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      },
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "fa": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "ff": [
+      {
+        "layoutId": "fr",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      },
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "fi": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "fr": [
+      {
+        "layoutId": "fr",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "fy-NL": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "ga-IE": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "gd": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "gl": [
+      {
+        "layoutId": "es",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "ha": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "he": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "hi-IN": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "hr": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "hsb": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "ht": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "hu": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "hy-AM": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "id": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "ig": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "it": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "ja": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "ko": [
+      {
+        "layoutId": "ko",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      },
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "lg": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "lij": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "ln": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "lv": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "mk": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "ml": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "mg": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "mr": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "my": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "nb": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "nl": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "or": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "pa": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "pl": [
+      {
+        "layoutId": "pl",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "pt-BR": [
+      {
+        "layoutId": "pt-BR",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "pt-PT": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "fr-x-psaccent": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "ar-x-psbidi": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "ro": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "ru": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "sk": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "sl": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "son": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "sq": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "sr": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "sr-Cyrl": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "sr-Latn": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "sv-SE": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "sw": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "ta": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "te": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "th": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "tn": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "tl": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "tr": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "uk": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "ur": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "vi": [
+      {
+        "layoutId": "fr",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "wo": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "xh": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "yo": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "zam": [
+      {
+        "layoutId": "es",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "zh-CN": [
+      {
+        "layoutId": "zh-Hans-Pinyin",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      },
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "zh-TW": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ],
+    "zu": [
+      {
+        "layoutId": "en",
+        "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+      }
+    ]
+  },
+  "langIndependentLayouts": [
+    {
+      "layoutId": "number",
+      "appManifestURL": "http://localhost/keyboard.gaiamobile.org/manifest.webapp"
+    }
+  ]
+}

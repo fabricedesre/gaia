@@ -2613,7 +2613,8 @@
     placeObj = {}, siteObj = {}) {
 
     return new Promise((resolve, reject) => {
-      LazyLoader.load('/shared/js/icons_helper.js').then(() => {
+      LazyLoader.load('chrome://gaia/content/shared/js/icons_helper.js')
+                .then(() => {
         IconsHelper.getIconBlob(origin, iconSize, placeObj, siteObj)
           .then(iconObject => {
             resolve({

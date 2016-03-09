@@ -218,6 +218,7 @@
     this.element = this.containerElement.querySelector('.chrome');
 
     this.progress = this.element.querySelector('gaia-progress');
+    console.log('XXX progress element is ' + this.progress);
     this.reloadButton = this.element.querySelector('.reload-button');
     this.forwardButton = this.element.querySelector('.forward-button');
     this.stopButton = this.element.querySelector('.stop-button');
@@ -1136,7 +1137,8 @@
     }
     var url = this._currentURL;
 
-    LazyLoader.load('shared/js/icons_helper.js').then(() => {
+    LazyLoader.load('chrome://gaia/content/shared/js/icons_helper.js')
+              .then(() => {
       IconsHelper.getIcon(url, null, {icons: favicons}).then(icon => {
         var activity = new MozActivity({
           name: 'save-bookmark',

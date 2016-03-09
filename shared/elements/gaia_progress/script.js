@@ -1,12 +1,13 @@
 'use strict';
 /* global ComponentUtils */
-
+console.log('XXX gaia_progress/script.js');
 window.GaiaProgress = (function(win) {
   // Extend from the HTMLElement prototype
   var proto = Object.create(HTMLElement.prototype);
 
   // Allow baseurl to be overridden (used for demo page)
-  var baseurl = window.GaiaProgressBaseurl || '/shared/elements/gaia_progress/';
+  var baseurl = window.GaiaProgressBaseurl ||
+                'chrome://gaia/content/shared/elements/gaia_progress/';
 
   proto.createdCallback = function() {
     //set Accessibility attributes on creation

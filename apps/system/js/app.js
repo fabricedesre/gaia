@@ -1,6 +1,5 @@
 /* global BaseModule, LazyLoader */
 'use strict';
-
 (function(exports) {
   /**
    * The entry point of the whole system app.
@@ -46,7 +45,10 @@
       'shared/js/notification_helper.js',
       'shared/js/sanitizer.js',
       'shared/js/idletimer.js' // XXX: Move into ScreenManager
-    ],
+    ].map(name => {
+      return name.startsWith('shared') ? 'chrome://gaia/content/' + name
+        : 'chrome://gaia/content/system.gaiamobile.org/' + name;
+    }),
     start: function() {
       window.performance.mark('loadEnd');
       return LazyLoader.load(this.FILES).then(() => {

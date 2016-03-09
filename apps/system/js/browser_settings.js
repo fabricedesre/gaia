@@ -48,7 +48,8 @@
         };
 
         // Clear the icon dataStore.
-        LazyLoader.load('shared/js/icons_helper.js').then(() => {
+        LazyLoader.load('chrome://gaia/content/shared/js/icons_helper.js')
+                  .then(() => {
           IconsHelper.clear();
         });
       }
