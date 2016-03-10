@@ -1,6 +1,5 @@
 'use strict';
 /* global ComponentUtils */
-console.log('XXX gaia_progress/script.js');
 window.GaiaProgress = (function(win) {
   // Extend from the HTMLElement prototype
   var proto = Object.create(HTMLElement.prototype);
